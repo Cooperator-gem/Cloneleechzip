@@ -22,3 +22,5 @@ lxml
 gunicorn==20.1.0
 aiohttp==3.8.1
 Flask==2.2.2
+pymongo
+dnspython
